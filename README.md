@@ -1,18 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Fxbric!</h1>
+<h3 align="center">I'm a 14 year old, independent developer from Caribbean who interested in all things game development and game engines.</h3>
 
-<!--
-**HeyImFxbric/HeyImFxbric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Unova Engine](https://github.com/HeyImFxbric/UnovaEngine)
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/heyimfxbric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heyimfxbric" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19114125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19114125" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyimfxbric&show_icons=true&locale=en" alt="heyimfxbric" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyImFxbric&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyImFxbric)](https://github.com/anuraghazra/github-readme-stats)
