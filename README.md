@@ -9,6 +9,6 @@
 <a href="https://stackoverflow.com/users/19114125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19114125" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyimfxbric&show_icons=true&locale=en" alt="heyimfxbric" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyImFxbric&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyImFxbric&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
