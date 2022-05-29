@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fxbric!</h1>
-<h3 align="center">I'm a 14 year old, independent developer from Caribbean who's interested in all things game development and game engines.</h3>
+<h3 align="center">I'm a 14 year old, independent developer from Caribbean who's interested in all things game development/modding and game engines.</h3>
 
 - 🔭 I’m currently working on [Snowflake Engine](https://github.com/HeyImFxbric/SnowflakeEngine)
 
