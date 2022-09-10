@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Snowflake Engine](https://github.com/ImCloudzzz/SnowflakeEngine.git)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Vulkan**
 
 - 🤝 I’m looking for help with [Snowflake Engine](https://github.com/ImCloudzzz/SnowflakeEngine.git)
 
-- 💬 Ask me about **game development and game modding.**
+- 💬 Ask me about **game development, game engines and Minecraft modding.**
 
 - 📫 How to reach me: You can reach me via Discord: **!mwhysofearless#3004** (Yes, this me, I go under ImCloudzzz everywhere else)
 
