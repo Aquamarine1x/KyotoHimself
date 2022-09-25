@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm imwhysofearless</h1>
 <h3 align="center">A developer from the Caribbean specializing in all things game engines, game development and game modding.</h3>
 
-- 🔭 I’m currently working on [Snowflake Engine](https://github.com/imwhysofearless/SnowflakeEngine.git)
+- 🔭 I’m currently working on [Nitrogen Engine](https://github.com/imwhysofearless/NitrogenEngine.git)
 
 - 🌱 I’m currently learning **Vulkan**
 
-- 🤝 I’m looking for help with [Snowflake Engine](https://github.com/imwhysofearless/SnowflakeEngine.git)
+- 🤝 I’m looking for help with [Nitrogen Engine](https://github.com/imwhysofearless/NitrogenEngine.git)
 
 - 💬 Ask me about **game development, game engines and Minecraft modding.**
 
