@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yoarchyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imwhysofearless" height="30" width="40" /></a>
+<a href="https://twitter.com/yoarchh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imwhysofearless" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHnWa-4gNkcAlD6aLqGaGFA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCHnWa-4gNkcAlD6aLqGaGFA" height="30" width="40" /></a>
-<a href="https://discord.gg/aaEyzNT65Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aaEyzNT65Y" height="30" width="40" /></a>
+<a href="https://discord.gg/K5EfUVzsny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aaEyzNT65Y" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
