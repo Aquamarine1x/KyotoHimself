@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm YoArchh</h1>
 <h3 align="center">A teenage developer who primarily does all things game development and Minecraft modding.</h3>
 
+---
+
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=yoarchh&show_icons=true&theme=dark&locale=en" alt="yoarchh">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
