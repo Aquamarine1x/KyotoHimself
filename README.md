@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with [Snowflake Engine](https://github.com/SnowflakeDevelopment/SnowflakeEngine)
 
-- 👨‍💻 All of my projects are available at [my GitHub](github.com/YoArchh) or the [Snowflake Development](https://github.com/SnowflakeDevelopment) page
+- 👨‍💻 All of my projects are available at here my [GitHub page](github.com/YoArchh)
 
 - 💬 Ask me about **Game Development, Game Engines and Minecraft Modding**
 
