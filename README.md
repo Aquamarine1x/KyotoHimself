@@ -4,21 +4,21 @@
 ---
 
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=chronyc1x&show_icons=true&theme=dark&locale=en" alt="chronyc1x">
+<img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=xochronyc&show_icons=true&theme=dark&locale=en" alt="chronyc1x">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=chronyc1x&show_icons=true&theme=dark&locale=en&layout=compact" alt="chronyc1x">
+<img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xochronyc&show_icons=true&theme=dark&locale=en&layout=compact" alt="chronyc1x">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=chronyc1x&theme=dark" alt="chronyc1x">
+<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xochronyc&theme=dark" alt="xochronyc">
 
 - 🔭 I’m currently working on [Snowflake Engine](https://github.com/Chronyc1x/SnowflakeEngine)
 
 - 🌱 I’m currently learning **Vulkan and Web Development**
 
-- 👯 I’m looking to collaborate on [Snowflake Engine](https://github.com/Chronyc1x/SnowflakeEngine)
+- 👯 I’m looking to collaborate on [Snowflake Engine](https://github.com/xoChronyc/SnowflakeEngine)
 
-- 🤝 I’m looking for help with [Snowflake Engine](https://github.com/Chronyc1x/SnowflakeEngine)
+- 🤝 I’m looking for help with [Snowflake Engine](https://github.com/xoChronyc/SnowflakeEngine)
 
-- 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/Chronyc1x)
+- 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/xoChronyc)
 
 - 💬 Ask me about **Game Development, Game Engines and Minecraft Modding**
 
