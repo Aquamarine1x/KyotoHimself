@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Chronyc</h1>
+<h1 align="center">Hi 👋, I'm Zeno</h1>
 <h3 align="center">A teenage developer who primarily does all things game development and Minecraft modding.</h3>
 
 ---
 
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=xochronyc&show_icons=true&theme=dark&locale=en" alt="chronyc1x">
+<img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=zenohimself&show_icons=true&theme=dark&locale=en" alt="chronyc1x">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xochronyc&show_icons=true&theme=dark&locale=en&layout=compact" alt="chronyc1x">
+<img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenohimself&show_icons=true&theme=dark&locale=en&layout=compact" alt="chronyc1x">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=xochronyc&theme=dark" alt="xochronyc">
+<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zenohimself&theme=dark" alt="xochronyc">
 
-- 🔭 I’m currently working on [Snowflake Engine](https://github.com/Chronyc1x/SnowflakeEngine)
+- 🔭 I’m currently working on [Snowflake Engine](https://github.com/ZenoHimself/SnowflakeEngine)
 
 - 🌱 I’m currently learning **Vulkan and Web Development**
 
-- 👯 I’m looking to collaborate on [Snowflake Engine](https://github.com/xoChronyc/SnowflakeEngine)
+- 👯 I’m looking to collaborate on [Snowflake Engine](https://github.com/ZenoHimself/SnowflakeEngine)
 
-- 🤝 I’m looking for help with [Snowflake Engine](https://github.com/xoChronyc/SnowflakeEngine)
+- 🤝 I’m looking for help with [Snowflake Engine](https://github.com/ZenoHimself/SnowflakeEngine)
 
-- 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/xoChronyc)
+- 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/ZenoHimself)
 
 - 💬 Ask me about **Game Development, Game Engines and Minecraft Modding**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ChronycOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoarchh" height="30" width="40" /></a>
+<a href="https://twitter.com/ZenoHimself_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoarchh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHnWa-4gNkcAlD6aLqGaGFA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchnwa-4gnkcald6alqgagfa" height="30" width="40" /></a>
 <a href="https://discord.gg/K5EfUVzsny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K5EfUVzsny" height="30" width="40" /></a>
 </p>
