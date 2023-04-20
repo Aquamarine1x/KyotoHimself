@@ -10,13 +10,13 @@
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kyotohimself&theme=dark" alt="xochronyc">
 
-- 🔭 I’m currently working on [Iridium](https://github.com/KyotoHimself/Iridium)
+- 🔭 I’m currently working on [Aquamarine Engine](https://github.com/KyotoHimself/AquamarineEngine)
 
 - 🌱 I’m currently learning **Vulkan and Direct3D**
 
-- 👯 I’m looking to collaborate on [Iridium](https://github.com/KyotoHimself/Iridium)
+- 👯 I’m looking to collaborate on [Aquamarine Engine](https://github.com/KyotoHimself/AquamarineEngine)
 
-- 🤝 I’m looking for help with [Iridium](https://github.com/KyotoHimself/Iridium)
+- 🤝 I’m looking for help with [Aquamarine Engine](https://github.com/KyotoHimself/AquamarineEngine)
 
 - 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/KyotoHimself)
 
