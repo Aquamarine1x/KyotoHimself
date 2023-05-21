@@ -10,13 +10,13 @@
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aquamarine1x&theme=dark" alt="xochronyc">
 
-- 🔭 I’m currently working on [Aquamarine Engine](https://github.com/Aquamarine1x/AquamarineEngine)
+- 🔭 I’m currently working on [Nexus Engine](https://github.com/Aquamarine1x/NexusEngine)
 
-- 🌱 I’m currently learning **Vulkan and Direct3D**
+- 🌱 I’m currently learning **Vulkan, DirectX 11 and DirectX 12**
 
-- 👯 I’m looking to collaborate on [Aquamarine Engine](https://github.com/Aquamarine1x/AquamarineEngine)
+- 👯 I’m looking to collaborate on [Nexus Engine](https://github.com/Aquamarine1x/NexusEngine)
 
-- 🤝 I’m looking for help with [Aquamarine Engine](https://github.com/Aquamarine1x/AquamarineEngine)
+- 🤝 I’m looking for help with [Nexus Engine](https://github.com/Aquamarine1x/NexusEngine)
 
 - 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/Aquamarine1x)
 
