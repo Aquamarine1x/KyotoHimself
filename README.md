@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aquamarine</h1>
+<h1 align="center">Hi 👋, I'm Arcane</h1>
 <h3 align="center">A teenage developer who primarily does all things game development and Minecraft modding.</h3>
 
 ---
