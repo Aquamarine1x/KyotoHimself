@@ -10,13 +10,13 @@
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arcanewastaken&theme=dark" alt="xochronyc">
 
-- 🔭 I’m currently working on [Odyssey Engine](https://github.com/ArcaneWasTaken/OdysseyEngine)
+- 🔭 I’m currently working on [Aether Engine](https://github.com/ArcaneWasTaken/AetherEngine)
 
-- 🌱 I’m currently learning **Web Development, Rust and Vulkan**
+- 🌱 I’m currently learning **Vulkan, DirectX 11 and DirectX 12**
 
-- 👯 I’m looking to collaborate on [Odyssey Engine](https://github.com/ArcaneWasTaken/OdysseyEngine)
+- 👯 I’m looking to collaborate on [Aether Engine](https://github.com/ArcaneWasTaken/AetherEngine)
 
-- 🤝 I’m looking for help with [Odyssey Engine](https://github.com/ArcaneWasTaken/OdysseyEngine)
+- 🤝 I’m looking for help with [Aether Engine](https://github.com/ArcaneWasTaken/AetherEngine)
 
 - 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/ArcaneWasTaken)
 
