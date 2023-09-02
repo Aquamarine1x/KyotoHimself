@@ -10,13 +10,13 @@
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arcanewastaken&theme=dark" alt="xochronyc">
 
-- 🔭 I’m currently working on [Niagara Engine](https://github.com/ArcaneWasTaken/NiagaraEngine)
+- 🔭 I’m currently working on [Hades Engine](https://github.com/ArcaneWasTaken/HadesEngine)
 
 - 🌱 I’m currently learning **Vulkan, DirectX 11 and DirectX 12**
 
-- 👯 I’m looking to collaborate on [Niagara Engine](https://github.com/ArcaneWasTaken/NiagaraEngine)
+- 👯 I’m looking to collaborate on [Hades Engine](https://github.com/ArcaneWasTaken/HadesEngine)
 
-- 🤝 I’m looking for help with [Niagara Engine](https://github.com/ArcaneWasTaken/NiagaraEngine)
+- 🤝 I’m looking for help with [Hades Engine](https://github.com/ArcaneWasTaken/HadesEngine)
 
 - 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/ArcaneWasTaken)
 
