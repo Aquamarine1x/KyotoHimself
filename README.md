@@ -4,29 +4,29 @@
 ---
 
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=arcanewastaken&show_icons=true&theme=dark&locale=en" alt="chronyc1x">
+<img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=ayydan&show_icons=true&theme=dark&locale=en" alt="chronyc1x">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=arcanewastaken&show_icons=true&theme=dark&locale=en&layout=compact" alt="chronyc1x">
+<img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayydan&show_icons=true&theme=dark&locale=en&layout=compact" alt="chronyc1x">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arcanewastaken&theme=dark" alt="xochronyc">
+<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayydan&theme=dark" alt="xochronyc">
 
-- 🔭 I’m currently working on [Hades Engine](https://github.com/ArcaneWasTaken/HadesEngine)
+- 🔭 I’m currently working on [Hades Engine](https://github.com/Ayydan/HadesEngine)
 
 - 🌱 I’m currently learning **Vulkan, DirectX 11 and DirectX 12**
 
-- 👯 I’m looking to collaborate on [Hades Engine](https://github.com/ArcaneWasTaken/HadesEngine)
+- 👯 I’m looking to collaborate on [Hades Engine](https://github.com/Ayydan/HadesEngine)
 
-- 🤝 I’m looking for help with [Hades Engine](https://github.com/ArcaneWasTaken/HadesEngine)
+- 🤝 I’m looking for help with [Hades Engine](https://github.com/Ayydan/HadesEngine)
 
-- 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/ArcaneWasTaken)
+- 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/Ayydan)
 
 - 💬 Ask me about **Game Development, Game Engines and Minecraft Modding**
 
-- 📫 How to reach me: **You can contact me via Discord: imwhysofearless**
+- 📫 How to reach me: **You can contact me via Discord: ayydan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RealAquamarine_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoarchh" height="30" width="40" /></a>
+<a href="https://twitter.com/arcanewastaken_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yoarchh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCYj0WR_evkaQkH0daGS1Kjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchnwa-4gnkcald6alqgagfa" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
