@@ -4,23 +4,23 @@
 ---
 
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=ayydan&show_icons=true&theme=dark&locale=en" alt="chronyc1x">
+<img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=ayydxn&show_icons=true&theme=dark&locale=en" alt="ayydxn">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayydan&show_icons=true&theme=dark&locale=en&layout=compact" alt="chronyc1x">
+<img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayydxn&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayydxn">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayydan&theme=dark" alt="xochronyc">
+<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayydxn&theme=dark" alt="ayydxn">
 
-- 🔭 I’m currently working on [Hades Engine](https://github.com/Ayydan/HadesEngine)
+- 🔭 I’m currently working on [Insomnia Engine](https://github.com/Ayydxn/InsomniaEngine), [Iridium](https://github.com/Ayydxn/Iridium) and [Hunted](https://github.com/Ayydxn/Hunted).
 
-- 🌱 I’m currently learning **Vulkan, DirectX 11 and DirectX 12**
+- 🌱 I’m currently learning **Vulkan, DirectX 11, DirectX 12 and Rust**.
 
-- 👯 I’m looking to collaborate on [Hades Engine](https://github.com/Ayydan/HadesEngine)
+- 👯 I’m looking to collaborate on [Insomnia Engine](https://github.com/Ayydxn/InsomniaEngine) and [Iridium](https://github.com/Ayydxn/Iridium).
 
-- 🤝 I’m looking for help with [Hades Engine](https://github.com/Ayydan/HadesEngine)
+- 🤝 I’m looking for help with [Insomnia Engine](https://github.com/Ayydxn/InsomniaEngine) and [Iridium](https://github.com/Ayydxn/Iridium).
 
-- 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/Ayydan)
+- 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/Ayydxn)
 
-- 💬 Ask me about **Game Development, Game Engines and Minecraft Modding**
+- 💬 Ask me about **Game Development, Game Engines and Minecraft Modding**.
 
 - 📫 How to reach me: **You can contact me via Discord: ayydan.**
 
