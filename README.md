@@ -10,13 +10,13 @@
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayydxn&theme=dark" alt="ayydxn">
 
-- 🔭 I’m currently working on [Insomnia Engine](https://github.com/Ayydxn/InsomniaEngine), [Iridium](https://github.com/Ayydxn/Iridium) and [Hunted](https://github.com/Ayydxn/Hunted).
+- 🔭 I’m currently working on [Moonlight Engine](https://github.com/Ayydxn/MoonlightEngine), [Iridium](https://github.com/Ayydxn/Iridium) and [Hunted](https://github.com/Ayydxn/Hunted).
 
-- 🌱 I’m currently learning **Vulkan, DirectX 11, DirectX 12 and Rust**.
+- 🌱 I’m currently learning **TypeScript, Vulkan and DirectX 11/12**.
 
-- 👯 I’m looking to collaborate on [Insomnia Engine](https://github.com/Ayydxn/InsomniaEngine) and [Iridium](https://github.com/Ayydxn/Iridium).
+- 👯 I’m looking to collaborate on [Moonlight Engine](https://github.com/Ayydxn/MoonlightEngine) and [Iridium](https://github.com/Ayydxn/Iridium).
 
-- 🤝 I’m looking for help with [Insomnia Engine](https://github.com/Ayydxn/InsomniaEngine) and [Iridium](https://github.com/Ayydxn/Iridium).
+- 🤝 I’m looking for help with [Moonlight Engine](https://github.com/Ayydxn/MoonlightEngine) and [Iridium](https://github.com/Ayydxn/Iridium).
 
 - 👨‍💻 All of my projects are available at here my [GitHub Page](github.com/Ayydxn)
 
@@ -30,4 +30,4 @@
 <a href="https://www.youtube.com/channel/UCYj0WR_evkaQkH0daGS1Kjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uchnwa-4gnkcald6alqgagfa" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
