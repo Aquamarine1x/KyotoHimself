@@ -3,16 +3,17 @@
 
 ---
 
+<img width=50% align="right" src="https://discord-readme-badge.vercel.app/api?id=928370924242219041" alt="ayydxn">
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=ayydxn&show_icons=true&theme=dark&locale=en" alt="ayydxn">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width=50% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayydxn&show_icons=true&theme=dark&locale=en&layout=compact" alt="ayydxn">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img with=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayydxn&theme=dark" alt="ayydxn">
+<img width=50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ayydxn&theme=dark" alt="ayydxn">
 
 - 🔭 I’m currently working on [Moonlight Engine](https://github.com/Ayydxn/MoonlightEngine), [Iridium](https://github.com/Ayydxn/Iridium) and [Hunted](https://github.com/Ayydxn/Hunted).
 
-- 🌱 I’m currently learning **TypeScript, Vulkan and DirectX 11/12**.
+- 🌱 I’m currently learning **Web Development and Game/Game Engine Development**.
 
 - 👯 I’m looking to collaborate on [Moonlight Engine](https://github.com/Ayydxn/MoonlightEngine) and [Iridium](https://github.com/Ayydxn/Iridium).
 
