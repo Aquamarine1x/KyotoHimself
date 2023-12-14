@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Game Development, Game Engines and Minecraft Modding**.
 
-- 📫 How to reach me: **You can contact me via Discord: ayydan.**
+- 📫 How to reach me: **You can contact me via Discord or Twitter**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
