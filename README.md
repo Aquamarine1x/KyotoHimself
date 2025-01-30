@@ -3,7 +3,6 @@
 
 ---
 
-<img width=50% align="right" src="https://discord-readme-badge.vercel.app/api?id=928370924242219041" alt="ayydxn">
 <img width="50%" height="25px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width=50% align="right" src="https://github-readme-stats.vercel.app/api?username=ayydxn&show_icons=true&theme=dark&locale=en" alt="ayydxn">
 <img width="50%" height="10px" align="right" src="https://i.imgur.com/DkKayja.png">
